@@ -77,7 +77,7 @@ video {
 @media screen and (min-width: 1366px) {
 .carousel-item{
     
-	height:40.55rem;
+	height:100vh;
 	color:#eee;
 	position: relative;
 	background-position: center;
@@ -94,7 +94,7 @@ video {
 @media screen and (min-width: 1600px) {
 .carousel-item{
     
-	height:50.675rem;
+	height:100vh;
 	color:#eee;
 	position: relative;
 	background-position: center;
@@ -120,12 +120,10 @@ video {
 
 
 
-
-
 @media screen and (min-width: 1920px) {
 .carousel-item{
     
-	height:60.80rem;
+	height:100vh;
 	color:#eee;
 	position: relative;
 	background-position: center;
@@ -152,7 +150,7 @@ video {
 @media screen and (min-width: 2560px) {
 .carousel-item{
     
-	height:70.925rem;
+	height:100vh;
 	color:#eee;
 	position: relative;
 	background-position: center;
@@ -160,17 +158,17 @@ video {
 
 }
 #slide-1{
-	width:140rem;
+	width:180rem;
 	
 	background-position: center;
 }
 #slide-2{
 	margin-top:-150px;
-		width:140rem;
+		width:180rem;
 	background-position: center;
 }
 #slide-3{
-		width:140rem;
+		width:1800rem;
 	background-position: center;
 }
 }
@@ -179,7 +177,7 @@ video {
 @media screen and (min-width: 3440px) {
 .carousel-item{
     
-	height:81.05rem;
+	height:100vh;
 	color:#eee;
 	position: relative;
 	background-position: center;
@@ -193,11 +191,11 @@ video {
 }
 #slide-2{
 	margin-top:-150px;
-		width:140rem;
+		width:200rem;
 	background-position: center;
 }
 #slide-3{
-		width:140rem;
+		width:200rem;
 	background-position: center;
 }
 }
@@ -206,7 +204,7 @@ video {
 @media screen and (min-width: 3840px) {
 .carousel-item{
     
-	height:91.175rem;
+	height:100vh;
 	color:#eee;
 	position: relative;
 	background-position: center;
@@ -214,17 +212,17 @@ video {
 
 }
 #slide-1{
-	width:140rem;
+	width:220rem;
 	
 	background-position: center;
 }
 #slide-2{
 	margin-top:-150px;
-		width:140rem;
+		width:220rem;
 	background-position: center;
 }
 #slide-3{
-		width:140rem;
+		width:220rem;
 	background-position: center;
 }
 }
