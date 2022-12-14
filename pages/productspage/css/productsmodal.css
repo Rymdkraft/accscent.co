@@ -1,0 +1,893 @@
+.modal {
+  display: none; 
+
+  z-index: 1; 
+
+  left: 0;
+  top: 0;
+  width: 10%; 
+  height:10%; 
+  overflow: auto; 
+
+ background-color: rgb(0,0,0); 
+  background-color: rgba(0,0,0,0.4); 
+}
+
+
+.modal-content {
+
+  background-color: #fefefe;
+  margin: auto;
+  padding: 0;
+  border: 1px solid #888;
+  width: 80%;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+  -webkit-animation-name: animatetop;
+  -webkit-animation-duration: 0.4s;
+  animation-name: animatetop;
+  animation-duration: 0.4s
+}
+
+
+@-webkit-keyframes animatetop {
+  from {top:-300px; opacity:0} 
+  to {top:0; opacity:1}
+}
+
+@keyframes animatetop {
+  from {top:-300px; opacity:0}
+  to {top:0; opacity:1}
+}
+.modal-header {
+  padding:;
+  background-color: black;
+  color: white;
+  height:60px;
+  float:both;
+}
+
+.modal-body {
+
+	
+	
+	}
+
+.modal-body p{
+  float:right;
+  
+
+}
+
+
+.modalImg{
+
+
+
+}
+.modalText{
+
+	top:80px;
+	left:50px;
+	
+}
+.quantity{
+	
+	top:25px;
+    
+	font-weight:bold;
+	
+}
+
+
+
+
+.close1 {
+  color: white;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close1:hover,
+.close1:focus {
+  color: grey;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.close2 {
+  color: white;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close2:hover,
+.close2:focus {
+   color: grey;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+
+.close3 {
+  color: white;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close3:hover,
+.close3:focus {
+   color: grey;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+
+.close4 {
+  color: white;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close4:hover,
+.close4:focus {
+  color: grey;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+
+.close5 {
+  color: white;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close5:hover,
+.close5:focus {
+  color: grey;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+
+.close6 {
+  color: white;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close6:hover,
+.close6:focus {
+  color: grey;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+
+.close7 {
+  color: white;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close7:hover,
+.close7:focus {
+  color: grey;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+
+.close8 {
+  color: white;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close8:hover,
+.close8:focus {
+ color: grey;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+
+.close9 {
+  color: white;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close9:hover,
+.close9:focus {
+   color: grey;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+
+.close10 {
+  color: white;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close10:hover,
+.close10:focus {
+  color: grey;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.close11 {
+  color: white;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close11:hover,
+.close11:focus {
+  color: grey;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.close12 {
+  color: white;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close12:hover,
+.close12:focus {
+  color: grey;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.close13 {
+  color: white;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close13:hover,
+.close13:focus {
+  color: grey;
+  text-decoration: none;
+  cursor: pointer;
+}
+.close14 {
+  color: white;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close14:hover,
+.close14:focus {
+  color: grey;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.close15 {
+  color: white;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close15:hover,
+.close15:focus {
+  color: grey;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.close16 {
+  color: white;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close16:hover,
+.close16:focus {
+  color: grey;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.close17 {
+  color: white;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close17:hover,
+.close17:focus {
+  color: grey;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.close18 {
+  color: white;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close18:hover,
+.close18:focus {
+  color: grey;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.close19 {
+  color: white;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close19:hover,
+.close19:focus {
+  color: grey;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+
+.close20 {
+  color: white;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close20:hover,
+.close20:focus {
+  color: grey;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+
+.close21 {
+  color: white;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close21:hover,
+.close21:focus {
+  color: grey;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.close22 {
+  color: white;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close22:hover,
+.close22:focus {
+  color: grey;
+  text-decoration: none;
+  cursor: pointer;
+}
+.close23 {
+  color: white;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close23:hover,
+.close23:focus {
+  color: grey;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+
+.close24 {
+  color: white;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close24:hover,
+.close24:focus {
+  color: grey;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.close25 {
+  color: white;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close25:hover,
+.close25:focus {
+  color: grey;
+  text-decoration: none;
+  cursor: pointer;
+}
+.close26 {
+  color: white;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close27:hover,
+.close27:focus {
+  color: grey;
+  text-decoration: none;
+  cursor: pointer;
+}
+.close28 {
+  color: white;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close28:hover,
+.close28:focus {
+  color: grey;
+  text-decoration: none;
+  cursor: pointer;
+}
+.close29 {
+  color: white;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close29:hover,
+.close29:focus {
+  color: grey;
+  text-decoration: none;
+  cursor: pointer;
+}
+.close30 {
+  color: white;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close30:hover,
+.close30:focus {
+  color: grey;
+  text-decoration: none;
+  cursor: pointer;
+}
+.close31 {
+  color: white;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close31:hover,
+.close31:focus {
+  color: grey;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.close32 {
+  color: white;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close32:hover,
+.close32:focus {
+  color: grey;
+  text-decoration: none;
+  cursor: pointer;
+}
+.close33 {
+  color: white;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close33:hover,
+.close33:focus {
+  color: grey;
+  text-decoration: none;
+  cursor: pointer;
+}
+.close34 {
+  color: white;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close34:hover,
+.close34:focus {
+  color: grey;
+  text-decoration: none;
+  cursor: pointer;
+}
+.close35 {
+  color: white;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close35:hover,
+.close35:focus {
+  color: grey;
+  text-decoration: none;
+  cursor: pointer;
+}
+.close36 {
+  color: white;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close36:hover,
+.close36:focus {
+  color: grey;
+  text-decoration: none;
+  cursor: pointer;
+}
+.close37 {
+  color: white;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close37:hover,
+.close37:focus {
+  color: grey;
+  text-decoration: none;
+  cursor: pointer;
+}
+.close38 {
+  color: white;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close38:hover,
+.close38:focus {
+  color: grey;
+  text-decoration: none;
+  cursor: pointer;
+}
+.close39 {
+  color: white;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close39:hover,
+.close39:focus {
+  color: grey;
+  text-decoration: none;
+  cursor: pointer;
+}
+.close40 {
+  color: white;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close40:hover,
+.close40:focus {
+  color: grey;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.close41 {
+  color: white;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close41:hover,
+.close41:focus {
+  color: grey;
+  text-decoration: none;
+  cursor: pointer;
+}
+.close42 {
+  color: white;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close42:hover,
+.close42:focus {
+  color: grey;
+  text-decoration: none;
+  cursor: pointer;
+}
+.close43 {
+  color: white;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close43:hover,
+.close43:focus {
+  color: grey;
+  text-decoration: none;
+  cursor: pointer;
+}
+.close44 {
+  color: white;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close44:hover,
+.close44:focus {
+  color: grey;
+  text-decoration: none;
+  cursor: pointer;
+}
+.close45 {
+  color: white;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close45:hover,
+.close45:focus {
+  color: grey;
+  text-decoration: none;
+  cursor: pointer;
+}
+.close46 {
+  color: white;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close46:hover,
+.close46:focus {
+  color: grey;
+  text-decoration: none;
+  cursor: pointer;
+}
+.close47 {
+  color: white;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close47:hover,
+.close47:focus {
+  color: grey;
+  text-decoration: none;
+  cursor: pointer;
+}
+.close48 {
+  color: white;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close48:hover,
+.close48:focus {
+  color: grey;
+  text-decoration: none;
+  cursor: pointer;
+}
+.close49 {
+  color: white;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close49:hover,
+.close49:focus {
+  color: grey;
+  text-decoration: none;
+  cursor: pointer;
+}
+.close50 {
+  color: white;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close50:hover,
+.close50:focus {
+  color: grey;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.close51 {
+  color: white;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close51:hover,
+.close51:focus {
+  color: grey;
+  text-decoration: none;
+  cursor: pointer;
+}
+.close52 {
+  color: white;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close52:hover,
+.close52:focus {
+  color: grey;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.close53 {
+  color: white;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close53:hover,
+.close53:focus {
+  color: grey;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+input,
+textarea {
+  border: 1px solid #eeeeee;
+  box-sizing: border-box;
+  margin: 0;
+  outline: none;
+  padding: 10px;
+}
+
+input[type="button"] {
+  -webkit-appearance: button;
+  cursor: pointer;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+}
+
+.input-group {
+ 
+  position:relative;
+
+  
+}
+
+.input-group input[type='button'] {
+  background-color: #eeeeee;
+  min-width: 38px;
+  width: auto;
+  transition: all 300ms ease;
+}
+
+.input-group .button-minus,
+.input-group .button-plus {
+  font-weight: bold;
+  height: 38px;
+  padding: 0;
+  width: 38px;
+  position: relative;
+}
+
+.input-group .quantity-field {
+  position: relative;
+  height: 38px;
+  left: -6px;
+  text-align: center;
+  width: 62px;
+  display: inline-block;
+  font-size: 13px;
+  margin: 0 0 5px;
+  resize: vertical;
+}
+
+.button-plus {
+  left: -13px;
+}
+
+input[type="number"] {
+  -moz-appearance: textfield;
+  -webkit-appearance: none;
+}
+
+
+.quanButton button{
+    background-color: dodgerblue;
+    color: white;
+
+	margin-top: 5px;
+	left: 350px;
+	
+}
+@media (min-width:320px){
+	.modal-everything{
+		zoom: 0.7;
+    -moz-transform: scale(0.8);
+		
+	}
+
+}
+@media (min-width:1366px){
+
+	.modal-everything{
+		zoom: 1.0;
+    -moz-transform: scale(1.0);
+		
+	}
+}
