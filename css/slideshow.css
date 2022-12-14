@@ -1,0 +1,123 @@
+
+@keyframes fadeIn {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+
+.slidershow{ /* controls the slide height*/
+ 	
+	position:absolute;
+  margin-top:-705px;
+  margin-bottom:px;
+
+  width: 1000px;
+  height: 32rem;
+  overflow: hidden;
+  background:
+}
+.middle{ /* controls slide position*/
+		 
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+box-shadow: 7px 7px 7px 7px rgba(0, 0, 0, 0.4)	;
+}
+.navigation{ /* bar/navigator position*/
+	
+
+  position: absolute;
+  bottom: 20px;
+  left: 20%;
+  transform: translateX(-50%);
+  display: flex;
+  
+}
+.bar{ /* bar/navigator button */
+	
+  width: 30px;
+  height: 10px;
+  border: 2px solid #fff;
+  margin: 6px;
+  cursor: pointer;
+  transition: 0.4s;
+}
+.bar:hover{ /* bar/navigator hover color "color when mouse hovers on button"*/
+  background: #fff;
+}
+
+input[name="r"]{ /* hides the radiobutton */
+    position: absolute;
+    visibility: hidden;
+}
+
+.slides{  /*controls the slide container*/
+  animation: fadeIn 2s; /*SCRAPPED  FEATURE */
+  width: 500%;
+  height: 100%;
+  display: flex;
+  
+}
+
+.slide{ /*controls the slide anoimation */
+	
+  width: 20%;
+  transition: 0.6s;
+}
+
+.slide img{ /*controls the slide image size */
+ 
+  width: 100%;
+  height: 100%;
+ 
+}
+
+#r1:checked ~ .s1{ /*control for the slide number */
+  margin-left: -0%;
+
+}
+#r2:checked ~ .s1{
+  margin-left: -20%;
+ 
+}
+#r3:checked ~ .s1{
+  margin-left: -40%;
+
+}
+#r4:checked ~ .s1{
+  margin-left: -60%;
+
+}
+#r5:checked ~ .s1{
+  margin-left: -80%;
+
+}
+#r6:checked ~ .s1{
+  margin-left: -100%;
+
+}
+#new1{
+  border: 1px solid black;
+  }
+  
+
+
+/*feature study in progress **/
+.nav-buttons{
+	
+}
+
+#next{
+	
+	color:white;
+    right: 10px;
+	
+}
+
+#prev{
+	    left: 10px;
+		color:white;
+	
+}
+

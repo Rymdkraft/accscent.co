@@ -1,0 +1,125 @@
+/*STYLES*/
+body{
+	/* background-color:#15292B; */
+	  background-color:#FFFFFFF;
+
+}
+
+
+
+
+
+/*header 2*/
+
+ .header { 
+
+    z-index: 9999;
+    top: 0;
+
+
+  
+   background-color: transparent;
+ 
+
+ 
+
+ }
+  .header a {  
+  float: left;
+  color: black;
+  text-align: center;
+  padding: 12px;
+  text-decoration: none;
+  font-size: 18px;
+  line-height: 25px;
+  border-radius: 4px;
+  left: 100px;
+  margin-left: 100px auto;
+}
+
+.header a.logo { 
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.header a:hover {  
+  background-color: #7b7b7c;
+  opacity:0.5;
+}
+
+.header a.active {
+ 
+  color: white;
+ 
+}
+.header-right {  
+ margin-right:100px;
+
+} 
+
+#homepage-slide{
+	z-index: -111;
+}
+
+
+
+.head-{
+     z-index: 99999999999;
+	opacity: 0.5;
+	background-color:transparent;
+}
+
+
+
+.contacts{
+	position:absolute;
+
+	margin-left:520px;
+	
+}
+
+
+
+@media screen and (max-width: 768px) {
+  .header a {
+    float: center;
+    display: block;
+    text-align: middle;
+	font-size:0px;
+	  
+	
+  }
+  .header-right {
+    float: none;
+	
+  }
+  
+ .prodImage{
+	 height:90px;
+	 width:90px;
+ }
+  .prodContainer{
+	  margin-bottom:100px;
+	 
+  }
+  .header a:hover {  
+  background-color: none;
+  color: none;
+}
+  
+}
+.carousel-inner > .item > video {
+  min-width: 100%;
+  width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
