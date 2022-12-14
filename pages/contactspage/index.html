@@ -1,0 +1,174 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  	<title>Contact Us</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+	<link href='https://fonts.googleapis.com/css?family=Roboto:400,100,300,700' rel='stylesheet' type='text/css'>
+
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+	<link rel="stylesheet" href="css/styles.css">
+	<link rel="stylesheet" href="css/style.css">
+<script src="js/sendmail.js"></script>
+       <link rel="icon" type="image/x-icon" href="icon.ico">
+
+
+
+<div id = "stickyheader">
+		
+		  <nav class="navbar navbar-expand-lg navbar-light bg-dark">
+		  
+		  <div id="logo">
+		              <span style="color:#f1f1f1">A</span>
+                       <span style="color:#f1f1f1">C</span>
+                       <span style="color:#f1f1f1">C</span>
+                       <span style="color: #A7C7E7">S</span> 
+                       <span style="color: #A7C7E7">C</span>
+	                   <span style="color: #A7C7E7">E</span>
+                       <span style="color:#F8C8DC">N</span>
+                       <span style="color:#F8C8DC">T</span>
+					   
+          </div>
+					   
+            <div class="container px-4 px-lg-5">			   
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav me-auto mb-2 mb-lg-0 ms-lg-4">
+                        <li class="nav-item"><a  style = "color:white;" class="nav-link active" aria-current="page" href="../../index.html">Home</a></li>
+                        <li class="nav-item"><a style = "color:white;" class="nav-link" href = "#" onclick="scrollup();">Contact Us</a></li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link" href="../productspage/index.html" role="button" data-bs-toggle="dropdown" aria-expanded="false" style = "color:white;" >Shop</a>
+                         
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+	</div>
+
+
+
+
+	</head>
+	<body>
+	<section class="ftco-section">
+		<div class="container">
+			<div class="row justify-content-center">
+				
+			</div>
+			<div class="row justify-content-center">
+				<div class="col-md-12">
+					<div class="wrapper">
+						<div class="row mb-5">
+							<div class="col-md-3">
+								<div class="dbox w-100 text-center">
+			        		<div class="icon d-flex align-items-center justify-content-center">
+			        			<span class="fa fa-map-marker"></span>
+			        		</div>
+			        		<div class="text">
+				            <p><span>Address:</span> <a href = "https://www.google.com/maps/place/8305+Dapitan,+Makati,+1212+Kalakhang+Maynila/@14.5615401,121.0462257,17z/data=!3m1!4b1!4m5!3m4!1s0x3397c858fb0529c7:0x62867132104e7a76!8m2!3d14.5615401!4d121.0484144" target = "_blank">8305 Dapitan St. Guadalupe Nuevo, Makati City</a></p>
+				          </div>
+			          </div>
+							</div>
+							<div class="col-md-3">
+								<div class="dbox w-100 text-center">
+			        		<div class="icon d-flex align-items-center justify-content-center">
+			        			<span class="fa fa-phone"></span>
+			        		</div>
+			        		<div class="text">
+				            <p><span>Phone:</span> <a href="tel://+639456008582">+63 945 600 8582</a></p>
+				          </div>
+			          </div>
+							</div>
+							<div class="col-md-3">
+								<div class="dbox w-100 text-center">
+			        		<div class="icon d-flex align-items-center justify-content-center">
+			        			<span class="fa fa-paper-plane"></span>
+			        		</div>
+			        		<div class="text">
+				            <p><span>Email:</span> <a href="mailto:info@yoursite.com">accscentbythecabatwo@gmail.com</a></p>
+				          </div>
+			          </div>
+							</div>
+							<div class="col-md-3">
+								<div class="dbox w-100 text-center">
+			        		<div class="icon d-flex align-items-center justify-content-center">
+			        			<span class="fa fa-globe"></span>
+			        		</div>
+			        		<div class="text">
+				            <p><span>Facebook</span> <a href="https://www.facebook.com/accscent.co" target="_blank">https://www.facebook.com/accscent.co</a></p>
+				          </div>
+			          </div>
+							</div>
+						</div>
+						
+						
+						<div class="row no-gutters">
+							<div class="col-md-7">
+								<div class="contact-wrap w-100 p-md-5 p-4">
+									<h3 class="mb-4">Contact Us</h3>
+									<div id="form-message-warning" class="mb-4"></div> 
+				      		<div id="form-message-success" class="mb-4">
+				            Your message was sent, thank you!
+				      		</div>
+									<form method="POST" id="contactForm" name="contactForm" class="contactForm">
+										<div class="row">
+											<div class="col-md-6">
+												<div class="form-group">
+													<label class="label" for="name">Full Name</label>
+													<input type="text" class="form-control" name="name" id="name" placeholder="Name">
+												</div>
+											</div>
+											<div class="col-md-6"> 
+												<div class="form-group">
+													<label class="label" for="email">Email Address</label>
+													<input type="email" class="form-control" name="email" id="email" placeholder="Email">
+												</div>
+											</div>
+											<div class="col-md-12">
+												<div class="form-group">
+													<label class="label" for="subject">Subject</label>
+													<input type="text" class="form-control" name="subject" id="subject" placeholder="Subject">
+												</div>
+											</div>
+											<div class="col-md-12">
+												<div class="form-group">
+													<label class="label" for="#">Message</label>
+													<textarea name="message" class="form-control" id="message" cols="30" rows="4" placeholder="Message"></textarea>
+												</div>
+											</div>
+											<div class="col-md-12">
+												<div class="form-group">
+												       <button id = "btnsend" class="btn btn-primary" >Send</button>
+
+													
+													<div class="submitting"></div>
+												</div>
+											</div>
+										</div>
+									</form>
+								</div>
+							</div>
+							<div class="col-md-5 d-flex align-items-stretch">
+								<div class="info-wrap w-100 p-5 img" style="background-image: url(resources/1.jpg);">
+			          </div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<script src="js/jquery.min.js"></script>
+  <script src="js/popper.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/jquery.validate.min.js"></script>
+  <script src="js/sendmail.js"></script>
+ <script src="https://smtpjs.com/v3/smtp.js">
+</script>
+  
+	</body>
+</html>
+
