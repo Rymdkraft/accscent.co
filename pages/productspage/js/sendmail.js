@@ -1,7 +1,7 @@
 var btn = document.getElementById('order-now-1');
 btn.addEventListener('click', function(e) {
     e.preventDefault()
-	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided. Have a nice day!");
+	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided (our email may be marked as spam, please check spam). Have a nice day!");
 	
 	
 	var name = document.getElementById('name-1').value;
@@ -35,8 +35,7 @@ btn.addEventListener('click', function(e) {
 var btn = document.getElementById('order-now-2');
 btn.addEventListener('click', function(e) {
     e.preventDefault()
-	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided. Have a nice day!");
-	
+	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided (our email may be marked as spam, please check spam). Have a nice day!");	
 	
 	var name = document.getElementById('name-2').value;
 	var email = document.getElementById('email-2').value;
@@ -67,8 +66,7 @@ btn.addEventListener('click', function(e) {
 var btn = document.getElementById('order-now-3');
 btn.addEventListener('click', function(e) {
     e.preventDefault()
-	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided. Have a nice day!");
-	
+	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided (our email may be marked as spam, please check spam). Have a nice day!");	
 	
 	var name = document.getElementById('name-3').value;
 	var email = document.getElementById('email-3').value;
@@ -99,8 +97,7 @@ btn.addEventListener('click', function(e) {
 var btn = document.getElementById('order-now-4');
 btn.addEventListener('click', function(e) {
     e.preventDefault()
-	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided. Have a nice day!");
-	
+	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided (our email may be marked as spam, please check spam). Have a nice day!");	
 	
 	var name = document.getElementById('name-4').value;
 	var email = document.getElementById('email-4').value;
@@ -129,8 +126,7 @@ btn.addEventListener('click', function(e) {
 var btn = document.getElementById('order-now-5');
 btn.addEventListener('click', function(e) {
     e.preventDefault()
-	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided. Have a nice day!");
-	
+	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided (our email may be marked as spam, please check spam). Have a nice day!");	
 	
 	var name = document.getElementById('name-5').value;
 	var email = document.getElementById('email-5').value;
@@ -158,8 +154,7 @@ btn.addEventListener('click', function(e) {
 var btn = document.getElementById('order-now-6');
 btn.addEventListener('click', function(e) {
     e.preventDefault()
-	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided. Have a nice day!");
-	
+	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided (our email may be marked as spam, please check spam). Have a nice day!");	
 	
 	var name = document.getElementById('name-6').value;
 	var email = document.getElementById('email-6').value;
@@ -186,8 +181,7 @@ btn.addEventListener('click', function(e) {
 	var btn = document.getElementById('order-now-7');
 btn.addEventListener('click', function(e) {
     e.preventDefault()
-	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided. Have a nice day!");
-	
+	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided (our email may be marked as spam, please check spam). Have a nice day!");	
 	
 	var name = document.getElementById('name-7').value;
 	var email = document.getElementById('email-7').value;
@@ -214,8 +208,7 @@ btn.addEventListener('click', function(e) {
 		var btn = document.getElementById('order-now-8');
 btn.addEventListener('click', function(e) {
     e.preventDefault()
-	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided. Have a nice day!");
-	
+	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided (our email may be marked as spam, please check spam). Have a nice day!");	
 	
 	var name = document.getElementById('name-8').value;
 	var email = document.getElementById('email-8').value;
@@ -242,8 +235,7 @@ btn.addEventListener('click', function(e) {
 		var btn = document.getElementById('order-now-9');
 btn.addEventListener('click', function(e) {
     e.preventDefault()
-	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided. Have a nice day!");
-	
+	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided (our email may be marked as spam, please check spam). Have a nice day!");	
 	
 	var name = document.getElementById('name-9').value;
 	var email = document.getElementById('email-9').value;
@@ -271,8 +263,7 @@ btn.addEventListener('click', function(e) {
 		var btn = document.getElementById('order-now-10');
 btn.addEventListener('click', function(e) {
     e.preventDefault()
-	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided. Have a nice day!");
-	
+	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided (our email may be marked as spam, please check spam). Have a nice day!");	
 	
 	var name = document.getElementById('name-10').value;
 	var email = document.getElementById('email-10').value;
@@ -299,8 +290,7 @@ btn.addEventListener('click', function(e) {
 		var btn = document.getElementById('order-now-11');
 btn.addEventListener('click', function(e) {
     e.preventDefault()
-	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided. Have a nice day!");
-	
+	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided (our email may be marked as spam, please check spam). Have a nice day!");	
 	
 	var name = document.getElementById('name-11').value;
 	var email = document.getElementById('email-11').value;
@@ -327,8 +317,7 @@ btn.addEventListener('click', function(e) {
 		var btn = document.getElementById('order-now-12');
 btn.addEventListener('click', function(e) {
     e.preventDefault()
-	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided. Have a nice day!");
-	
+	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided (our email may be marked as spam, please check spam). Have a nice day!");	
 	
 	var name = document.getElementById('name-12').value;
 	var email = document.getElementById('email-12').value;
@@ -355,8 +344,7 @@ btn.addEventListener('click', function(e) {
 		var btn = document.getElementById('order-now-13');
 btn.addEventListener('click', function(e) {
     e.preventDefault()
-	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided. Have a nice day!");
-	
+	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided (our email may be marked as spam, please check spam). Have a nice day!");	
 	
 	var name = document.getElementById('name-13').value;
 	var email = document.getElementById('email-13').value;
@@ -386,8 +374,7 @@ btn.addEventListener('click', function(e) {
 			var btn = document.getElementById('order-now-14');
 btn.addEventListener('click', function(e) {
     e.preventDefault()
-	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided. Have a nice day!");
-	
+	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided (our email may be marked as spam, please check spam). Have a nice day!");	
 	
 	var name = document.getElementById('name-14').value;
 	var email = document.getElementById('email-14').value;
@@ -416,8 +403,7 @@ btn.addEventListener('click', function(e) {
 				var btn = document.getElementById('order-now-15');
 btn.addEventListener('click', function(e) {
     e.preventDefault()
-	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided. Have a nice day!");
-	
+	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided (our email may be marked as spam, please check spam). Have a nice day!");	
 	
 	var name = document.getElementById('name-15').value;
 	var email = document.getElementById('email-15').value;
@@ -446,8 +432,7 @@ btn.addEventListener('click', function(e) {
 				var btn = document.getElementById('order-now-16');
 btn.addEventListener('click', function(e) {
     e.preventDefault()
-	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided. Have a nice day!");
-	
+	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided (our email may be marked as spam, please check spam). Have a nice day!");	
 	
 	var name = document.getElementById('name-16').value;
 	var email = document.getElementById('email-16').value;
@@ -476,8 +461,7 @@ btn.addEventListener('click', function(e) {
 				var btn = document.getElementById('order-now-17');
 btn.addEventListener('click', function(e) {
     e.preventDefault()
-	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided. Have a nice day!");
-	
+	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided (our email may be marked as spam, please check spam). Have a nice day!");	
 	
 	var name = document.getElementById('name-17').value;
 	var email = document.getElementById('email-17').value;
@@ -506,8 +490,7 @@ btn.addEventListener('click', function(e) {
 				var btn = document.getElementById('order-now-18');
 btn.addEventListener('click', function(e) {
     e.preventDefault()
-	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided. Have a nice day!");
-	
+	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided (our email may be marked as spam, please check spam). Have a nice day!");	
 	
 	var name = document.getElementById('name-18').value;
 	var email = document.getElementById('email-18').value;
@@ -536,8 +519,7 @@ btn.addEventListener('click', function(e) {
 				var btn = document.getElementById('order-now-19');
 btn.addEventListener('click', function(e) {
     e.preventDefault()
-	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided. Have a nice day!");
-	
+	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided (our email may be marked as spam, please check spam). Have a nice day!");	
 	
 	var name = document.getElementById('name-19').value;
 	var email = document.getElementById('email-19').value;
@@ -568,8 +550,7 @@ btn.addEventListener('click', function(e) {
 				var btn = document.getElementById('order-now-20');
 btn.addEventListener('click', function(e) {
     e.preventDefault()
-	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided. Have a nice day!");
-	
+	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided (our email may be marked as spam, please check spam). Have a nice day!");	
 	
 	var name = document.getElementById('name-20').value;
 	var email = document.getElementById('email-20').value;
@@ -600,8 +581,7 @@ btn.addEventListener('click', function(e) {
 				var btn = document.getElementById('order-now-21');
 btn.addEventListener('click', function(e) {
     e.preventDefault()
-	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided. Have a nice day!");
-	
+	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided (our email may be marked as spam, please check spam). Have a nice day!");	
 	
 	var name = document.getElementById('name-21').value;
 	var email = document.getElementById('email-21').value;
@@ -631,8 +611,7 @@ btn.addEventListener('click', function(e) {
 				var btn = document.getElementById('order-now-22');
 btn.addEventListener('click', function(e) {
     e.preventDefault()
-	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided. Have a nice day!");
-	
+	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided (our email may be marked as spam, please check spam). Have a nice day!");	
 	
 	var name = document.getElementById('name-22').value;
 	var email = document.getElementById('email-22').value;
@@ -663,8 +642,7 @@ btn.addEventListener('click', function(e) {
 				var btn = document.getElementById('order-now-23');
 btn.addEventListener('click', function(e) {
     e.preventDefault()
-	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided. Have a nice day!");
-	
+	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided (our email may be marked as spam, please check spam). Have a nice day!");	
 	
 	var name = document.getElementById('name-23').value;
 	var email = document.getElementById('email-23').value;
@@ -694,8 +672,7 @@ btn.addEventListener('click', function(e) {
 				var btn = document.getElementById('order-now-24');
 btn.addEventListener('click', function(e) {
     e.preventDefault()
-	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided. Have a nice day!");
-	
+	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided (our email may be marked as spam, please check spam). Have a nice day!");	
 	
 	var name = document.getElementById('name-24').value;
 	var email = document.getElementById('email-24').value;
@@ -726,8 +703,7 @@ btn.addEventListener('click', function(e) {
 				var btn = document.getElementById('order-now-25');
 btn.addEventListener('click', function(e) {
     e.preventDefault()
-	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided. Have a nice day!");
-	
+	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided (our email may be marked as spam, please check spam). Have a nice day!");	
 	
 	var name = document.getElementById('name-25').value;
 	var email = document.getElementById('email-25').value;
@@ -754,8 +730,7 @@ btn.addEventListener('click', function(e) {
 	var btn = document.getElementById('order-now-26');
 btn.addEventListener('click', function(e) {
     e.preventDefault()
-	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided. Have a nice day!");
-	
+	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided (our email may be marked as spam, please check spam). Have a nice day!");	
 	
 	var name = document.getElementById('name-26').value;
 	var email = document.getElementById('email-26').value;
@@ -782,8 +757,7 @@ btn.addEventListener('click', function(e) {
 	var btn = document.getElementById('order-now-27');
 btn.addEventListener('click', function(e) {
     e.preventDefault()
-	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided. Have a nice day!");
-	
+	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided (our email may be marked as spam, please check spam). Have a nice day!");	
 	
 	var name = document.getElementById('name-27').value;
 	var email = document.getElementById('email-27').value;
@@ -811,8 +785,7 @@ btn.addEventListener('click', function(e) {
 	var btn = document.getElementById('order-now-28');
 btn.addEventListener('click', function(e) {
     e.preventDefault()
-	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided. Have a nice day!");
-	
+	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided (our email may be marked as spam, please check spam). Have a nice day!");	
 	
 	var name = document.getElementById('name-28').value;
 	var email = document.getElementById('email-28').value;
@@ -839,8 +812,7 @@ btn.addEventListener('click', function(e) {
 	var btn = document.getElementById('order-now-29');
 btn.addEventListener('click', function(e) {
     e.preventDefault()
-	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided. Have a nice day!");
-	
+	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided (our email may be marked as spam, please check spam). Have a nice day!");	
 	
 	var name = document.getElementById('name-29').value;
 	var email = document.getElementById('email-29').value;
@@ -867,8 +839,7 @@ btn.addEventListener('click', function(e) {
 	var btn = document.getElementById('order-now-30');
 btn.addEventListener('click', function(e) {
     e.preventDefault()
-	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided. Have a nice day!");
-	
+	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided (our email may be marked as spam, please check spam). Have a nice day!");	
 	
 	var name = document.getElementById('name-30').value;
 	var email = document.getElementById('email-30').value;
@@ -895,8 +866,7 @@ btn.addEventListener('click', function(e) {
 	var btn = document.getElementById('order-now-31');
 btn.addEventListener('click', function(e) {
     e.preventDefault()
-	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided. Have a nice day!");
-	
+	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided (our email may be marked as spam, please check spam). Have a nice day!");	
 	
 	var name = document.getElementById('name-31').value;
 	var email = document.getElementById('email-31').value;
@@ -923,8 +893,7 @@ btn.addEventListener('click', function(e) {
 	var btn = document.getElementById('order-now-32');
 btn.addEventListener('click', function(e) {
     e.preventDefault()
-	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided. Have a nice day!");
-	
+	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided (our email may be marked as spam, please check spam). Have a nice day!");	
 	
 	var name = document.getElementById('name-32').value;
 	var email = document.getElementById('email-32').value;
@@ -951,8 +920,7 @@ btn.addEventListener('click', function(e) {
 	var btn = document.getElementById('order-now-33');
 btn.addEventListener('click', function(e) {
     e.preventDefault()
-	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided. Have a nice day!");
-	
+	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided (our email may be marked as spam, please check spam). Have a nice day!");	
 	
 	var name = document.getElementById('name-33').value;
 	var email = document.getElementById('email-33').value;
@@ -979,8 +947,7 @@ btn.addEventListener('click', function(e) {
 	var btn = document.getElementById('order-now-34');
 btn.addEventListener('click', function(e) {
     e.preventDefault()
-	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided. Have a nice day!");
-	
+	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided (our email may be marked as spam, please check spam). Have a nice day!");	
 	
 	var name = document.getElementById('name-34').value;
 	var email = document.getElementById('email-34').value;
@@ -1007,8 +974,7 @@ btn.addEventListener('click', function(e) {
 	var btn = document.getElementById('order-now-35');
 btn.addEventListener('click', function(e) {
     e.preventDefault()
-	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided. Have a nice day!");
-	
+	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided (our email may be marked as spam, please check spam). Have a nice day!");	
 	
 	var name = document.getElementById('name-35').value;
 	var email = document.getElementById('email-35').value;
@@ -1035,8 +1001,7 @@ btn.addEventListener('click', function(e) {
 	var btn = document.getElementById('order-now-36');
 btn.addEventListener('click', function(e) {
     e.preventDefault()
-	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided. Have a nice day!");
-	
+	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided (our email may be marked as spam, please check spam). Have a nice day!");	
 	
 	var name = document.getElementById('name-36').value;
 	var email = document.getElementById('email-36').value;
@@ -1063,8 +1028,7 @@ btn.addEventListener('click', function(e) {
 	var btn = document.getElementById('order-now-37');
 btn.addEventListener('click', function(e) {
     e.preventDefault()
-	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided. Have a nice day!");
-	
+	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided (our email may be marked as spam, please check spam). Have a nice day!");	
 	
 	var name = document.getElementById('name-37').value;
 	var email = document.getElementById('email-37').value;
@@ -1091,8 +1055,7 @@ btn.addEventListener('click', function(e) {
 	var btn = document.getElementById('order-now-38');
 btn.addEventListener('click', function(e) {
     e.preventDefault()
-	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided. Have a nice day!");
-	
+	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided (our email may be marked as spam, please check spam). Have a nice day!");	
 	
 	var name = document.getElementById('name-38').value;
 	var email = document.getElementById('email-38').value;
@@ -1119,8 +1082,7 @@ btn.addEventListener('click', function(e) {
 	var btn = document.getElementById('order-now-39');
 btn.addEventListener('click', function(e) {
     e.preventDefault()
-	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided. Have a nice day!");
-	
+	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided (our email may be marked as spam, please check spam). Have a nice day!");	
 	
 	var name = document.getElementById('name-39').value;
 	var email = document.getElementById('email-39').value;
@@ -1147,8 +1109,7 @@ btn.addEventListener('click', function(e) {
 	var btn = document.getElementById('order-now-40');
 btn.addEventListener('click', function(e) {
     e.preventDefault()
-	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided. Have a nice day!");
-	
+	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided (our email may be marked as spam, please check spam). Have a nice day!");	
 	
 	var name = document.getElementById('name-40').value;
 	var email = document.getElementById('email-40').value;
@@ -1175,8 +1136,7 @@ btn.addEventListener('click', function(e) {
 	var btn = document.getElementById('order-now-41');
 btn.addEventListener('click', function(e) {
     e.preventDefault()
-	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided. Have a nice day!");
-	
+	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided (our email may be marked as spam, please check spam). Have a nice day!");	
 	
 	var name = document.getElementById('name-41').value;
 	var email = document.getElementById('email-41').value;
@@ -1203,8 +1163,7 @@ btn.addEventListener('click', function(e) {
 	var btn = document.getElementById('order-now-42');
 btn.addEventListener('click', function(e) {
     e.preventDefault()
-	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided. Have a nice day!");
-	
+	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided (our email may be marked as spam, please check spam). Have a nice day!");	
 	
 	var name = document.getElementById('name-42').value;
 	var email = document.getElementById('email-42').value;
@@ -1232,8 +1191,7 @@ btn.addEventListener('click', function(e) {
 	var btn = document.getElementById('order-now-43');
 btn.addEventListener('click', function(e) {
     e.preventDefault()
-	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided. Have a nice day!");
-	
+	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided (our email may be marked as spam, please check spam). Have a nice day!");	
 	
 	var name = document.getElementById('name-43').value;
 	var email = document.getElementById('email-43').value;
@@ -1260,8 +1218,7 @@ btn.addEventListener('click', function(e) {
 	var btn = document.getElementById('order-now-44');
 btn.addEventListener('click', function(e) {
     e.preventDefault()
-	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided. Have a nice day!");
-	
+	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided (our email may be marked as spam, please check spam). Have a nice day!");	
 	
 	var name = document.getElementById('name-44').value;
 	var email = document.getElementById('email-44').value;
@@ -1288,8 +1245,7 @@ btn.addEventListener('click', function(e) {
 	var btn = document.getElementById('order-now-45');
 btn.addEventListener('click', function(e) {
     e.preventDefault()
-	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided. Have a nice day!");
-	
+	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided (our email may be marked as spam, please check spam). Have a nice day!");	
 	
 	var name = document.getElementById('name-45').value;
 	var email = document.getElementById('email-45').value;
@@ -1316,8 +1272,7 @@ btn.addEventListener('click', function(e) {
 	var btn = document.getElementById('order-now-46');
 btn.addEventListener('click', function(e) {
     e.preventDefault()
-	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided. Have a nice day!");
-	
+	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided (our email may be marked as spam, please check spam). Have a nice day!");	
 	
 	var name = document.getElementById('name-46').value;
 	var email = document.getElementById('email-46').value;
@@ -1344,8 +1299,7 @@ btn.addEventListener('click', function(e) {
 	var btn = document.getElementById('order-now-47');
 btn.addEventListener('click', function(e) {
     e.preventDefault()
-	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided. Have a nice day!");
-	
+	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided (our email may be marked as spam, please check spam). Have a nice day!");	
 	
 	var name = document.getElementById('name-47').value;
 	var email = document.getElementById('email-47').value;
@@ -1372,8 +1326,7 @@ btn.addEventListener('click', function(e) {
 	var btn = document.getElementById('order-now-48');
 btn.addEventListener('click', function(e) {
     e.preventDefault()
-	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided. Have a nice day!");
-	
+	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided (our email may be marked as spam, please check spam). Have a nice day!");	
 	
 	var name = document.getElementById('name-48').value;
 	var email = document.getElementById('email-48').value;
@@ -1400,8 +1353,7 @@ btn.addEventListener('click', function(e) {
 	var btn = document.getElementById('order-now-49');
 btn.addEventListener('click', function(e) {
     e.preventDefault()
-	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided. Have a nice day!");
-	
+	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided (our email may be marked as spam, please check spam). Have a nice day!");	
 	
 	var name = document.getElementById('name-49').value;
 	var email = document.getElementById('email-49').value;
@@ -1428,8 +1380,7 @@ btn.addEventListener('click', function(e) {
 	var btn = document.getElementById('order-now-50');
 btn.addEventListener('click', function(e) {
     e.preventDefault()
-	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided. Have a nice day!");
-	
+	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided (our email may be marked as spam, please check spam). Have a nice day!");	
 	
 	var name = document.getElementById('name-50').value;
 	var email = document.getElementById('email-50').value;
@@ -1456,8 +1407,7 @@ btn.addEventListener('click', function(e) {
 	var btn = document.getElementById('order-now-51');
 btn.addEventListener('click', function(e) {
     e.preventDefault()
-	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided. Have a nice day!");
-	
+	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided (our email may be marked as spam, please check spam). Have a nice day!");	
 	
 	var name = document.getElementById('name-51').value;
 	var email = document.getElementById('email-51').value;
@@ -1484,8 +1434,7 @@ btn.addEventListener('click', function(e) {
 	var btn = document.getElementById('order-now-52');
 btn.addEventListener('click', function(e) {
     e.preventDefault()
-	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided. Have a nice day!");
-	
+	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided (our email may be marked as spam, please check spam). Have a nice day!");	
 	
 	var name = document.getElementById('name-52').value;
 	var email = document.getElementById('email-52').value;
@@ -1512,8 +1461,7 @@ btn.addEventListener('click', function(e) {
 	var btn = document.getElementById('order-now-53');
 btn.addEventListener('click', function(e) {
     e.preventDefault()
-	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided. Have a nice day!");
-	
+	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided (our email may be marked as spam, please check spam). Have a nice day!");	
 	
 	var name = document.getElementById('name-53').value;
 	var email = document.getElementById('email-53').value;
@@ -1540,8 +1488,7 @@ btn.addEventListener('click', function(e) {
 		var btn = document.getElementById('order-now-54');
 btn.addEventListener('click', function(e) {
     e.preventDefault()
-	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided. Have a nice day!");
-	
+	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided (our email may be marked as spam, please check spam). Have a nice day!");	
 	
 	var name = document.getElementById('name-54').value;
 	var email = document.getElementById('email-54').value;
@@ -1569,8 +1516,7 @@ btn.addEventListener('click', function(e) {
 			var btn = document.getElementById('order-now-55');
 btn.addEventListener('click', function(e) {
     e.preventDefault()
-	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided. Have a nice day!");
-	
+	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided (our email may be marked as spam, please check spam). Have a nice day!");	
 	
 	var name = document.getElementById('name-55').value;
 	var email = document.getElementById('email-55').value;
