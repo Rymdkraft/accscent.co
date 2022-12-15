@@ -1536,3 +1536,60 @@ btn.addEventListener('click', function(e) {
     message => alert(message)
 );	
 	})
+	
+		var btn = document.getElementById('order-now-54');
+btn.addEventListener('click', function(e) {
+    e.preventDefault()
+	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided. Have a nice day!");
+	
+	
+	var name = document.getElementById('name-54').value;
+	var email = document.getElementById('email-54').value;
+	var itemname = "CLINIQUE HAPPY MEN";
+	var quantity = document.getElementById('quantity-item-54').value;
+	var homeaddress = document.getElementById('address-54').value;
+	var mail = 'name: '+name +'<br/> email: ' + email + '<br/> item: ' +  itemname + '<br/> quantity: ' + quantity + '<br/> Home Address: ' + homeaddress;
+	           
+	
+	
+    Email.send({
+    Host : "smtp.elasticemail.com",
+    Username : "accscent@outlook.ph",
+    Password : "5AB00F3056B9D60C0369328869A353C6F8A7",
+    To :  "accscent@outlook.ph",
+    From : "gabenone7@gmail.com",
+    Subject : "ORDER",
+    Body : mail,
+}).then(
+    message => alert(message)
+);	
+	})
+	
+	
+			var btn = document.getElementById('order-now-55');
+btn.addEventListener('click', function(e) {
+    e.preventDefault()
+	alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email to verify your order, we'll send an email to the email you provided. Have a nice day!");
+	
+	
+	var name = document.getElementById('name-55').value;
+	var email = document.getElementById('email-55').value;
+	var itemname = "SAUVAGE DIOR";
+	var quantity = document.getElementById('quantity-item-55').value;
+	var homeaddress = document.getElementById('address-55').value;
+	var mail = 'name: '+name +'<br/> email: ' + email + '<br/> item: ' +  itemname + '<br/> quantity: ' + quantity + '<br/> Home Address: ' + homeaddress;
+	           
+	
+	
+    Email.send({
+    Host : "smtp.elasticemail.com",
+    Username : "accscent@outlook.ph",
+    Password : "5AB00F3056B9D60C0369328869A353C6F8A7",
+    To :  "accscent@outlook.ph",
+    From : "gabenone7@gmail.com",
+    Subject : "ORDER",
+    Body : mail,
+}).then(
+    message => alert(message)
+);	
+	})
