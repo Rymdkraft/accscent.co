@@ -11339,10 +11339,18 @@ textarea.form-control-lg {
 	}
 }
 
-@media screen and (min-width: 1400px) {
+@media screen and (min-width: 1440px) {
 	
 	.logo{
 		zoom: 0.7;
     -moz-transform: scale(0.8);
 	
 }
+	@media screen and (min-width: 1400px) {
+	
+	.logo{
+		zoom: 0.7;
+    -moz-transform: scale(0.8);
+	
+}
+	
