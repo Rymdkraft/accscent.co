@@ -1,7 +1,7 @@
 var btn = document.getElementById('btnsend');
 btn.addEventListener('click', function(e) {
     e.preventDefault()
-	
+		alert("If the next message box says OK, your email has been sent successfully. Make sure you have entered a valid email, we'll reply as soon as possible (our email may be marked as spam, please check spam). Have a nice day!");
 	
 	var name = document.getElementById('name').value;
 	var email = document.getElementById('email').value;
