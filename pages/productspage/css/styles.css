@@ -11339,7 +11339,43 @@ textarea.form-control-lg {
 	}
 }
 
+@media screen and (min-width: 1400px) {
+	
+	#logo{
+			zoom: 0.7;
+    -moz-transform: scale(0.9);
+	}
+	
+}
+
+@media screen and (min-width: 1440px) {
+	
+	#logo{
+			zoom: 0.7;
+    -moz-transform: scale(0.9);
+	}
+	
+}
+
+
 @media screen and (min-width: 1920px) {
+	
+	#logo{
+			zoom: 0.7;
+    -moz-transform: scale(0.9);
+	}
+	
+}
+
+@media screen and (min-height: 900px) {
+	
+	#logo{
+			zoom: 0.7;
+    -moz-transform: scale(0.9);
+	}
+	
+}
+@media screen and (min-height: 1050px) {
 	
 	#logo{
 			zoom: 0.7;
