@@ -11337,6 +11337,10 @@ textarea.form-control-lg {
     -moz-transform: scale(1.0);
 		
 	}
+	#navbar-control{
+		margin-left: 10px;
+	}
+	
 }
 
 @media screen and (min-width: 1400px) {
@@ -11344,6 +11348,9 @@ textarea.form-control-lg {
 	#logo{
 			zoom: 0.7;
     -moz-transform: scale(0.9);
+	}
+	#navbar-control{
+		margin-left: 10px;
 	}
 	
 }
@@ -11353,6 +11360,9 @@ textarea.form-control-lg {
 	#logo{
 			zoom: 0.7;
     -moz-transform: scale(0.9);
+	}
+	#navbar-control{
+		margin-left: 10px;
 	}
 	
 }
@@ -11364,6 +11374,9 @@ textarea.form-control-lg {
 			zoom: 0.7;
     -moz-transform: scale(0.9);
 	}
+	#navbar-control{
+		margin-left: 10px;
+	}
 	
 }
 
@@ -11373,6 +11386,9 @@ textarea.form-control-lg {
 			zoom: 0.7;
     -moz-transform: scale(0.9);
 	}
+	#navbar-control{
+		margin-left: 10px;
+	}
 	
 }
 @media screen and (min-height: 1050px) {
@@ -11380,6 +11396,9 @@ textarea.form-control-lg {
 	#logo{
 			zoom: 0.7;
     -moz-transform: scale(0.9);
+	}
+	#navbar-control{
+		margin-left: 10px;
 	}
 	
 }
