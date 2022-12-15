@@ -445,6 +445,18 @@
   font-size: 28px;
   font-weight: bold;
 }
+.close26:hover,
+.close26:focus {
+  color: grey;
+  text-decoration: none;
+  cursor: pointer;
+}
+.close27 {
+  color: white;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
 
 .close27:hover,
 .close27:focus {
@@ -795,8 +807,34 @@
   cursor: pointer;
 }
 
+.close54 {
+  color: white;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close54:hover,
+.close54:focus {
+  color: grey;
+  text-decoration: none;
+  cursor: pointer;
+}
 
 
+.close55 {
+  color: white;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close55:hover,
+.close55:focus {
+  color: grey;
+  text-decoration: none;
+  cursor: pointer;
+}
 
 
 
