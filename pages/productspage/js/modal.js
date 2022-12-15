@@ -847,3 +847,34 @@ window.onclick = function(event) {
     modal53.style.display = "none";
   }
 }
+
+
+var modal54 = document.getElementById("myModal54");
+var btn = document.getElementById("prod54Click");
+var span = document.getElementsByClassName("close54")[0]; 
+btn.onclick = function() {
+  modal54.style.display = "block";
+}
+span.onclick = function() {
+  modal54.style.display = "none";
+}
+window.onclick = function(event) {
+  if (event.target == modal54) {
+    modal54.style.display = "none";
+  }
+}
+
+var modal55 = document.getElementById("myModal55");
+var btn = document.getElementById("prod55Click");
+var span = document.getElementsByClassName("close55")[0]; 
+btn.onclick = function() {
+  modal55.style.display = "block";
+}
+span.onclick = function() {
+  modal55.style.display = "none";
+}
+window.onclick = function(event) {
+  if (event.target == modal55) {
+    modal55.style.display = "none";
+  }
+}
