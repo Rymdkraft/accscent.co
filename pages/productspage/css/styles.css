@@ -11330,7 +11330,7 @@ textarea.form-control-lg {
 .image-hover:hover {
   transform: scale(1.05); 
 }
-@media (min-width:1366px){
+@media screen and(min-width:1366px){
 
 	.logo{
 		zoom: 1.0;
@@ -11342,8 +11342,7 @@ textarea.form-control-lg {
 @media screen and (min-width: 1400px) {
 	
 	.logo{
-			zoom: 0.9;
-    -moz-transform: scale(0.9);
-	}
+		zoom: 0.7;
+    -moz-transform: scale(0.8);
 	
 }
