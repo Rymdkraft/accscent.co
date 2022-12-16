@@ -11402,3 +11402,14 @@ textarea.form-control-lg {
 	}
 	
 }
+@media screen and (min-height: 1080px) {
+	
+	#logo{
+			zoom: 0.7;
+    -moz-transform: scale(0.9);
+	}
+	#navbar-control{
+		margin-left: 10px;
+	}
+	
+}
