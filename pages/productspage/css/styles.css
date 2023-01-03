@@ -3962,6 +3962,7 @@ textarea.form-control-lg {
 @media (prefers-reduced-motion: reduce) {
   .nav-link {
     transition: none;
+	z-index:99999;
   }
 }
 .nav-link:hover, .nav-link:focus {
@@ -3997,11 +3998,13 @@ textarea.form-control-lg {
   color: white;
   background-color: #fff;
   border-color: #dee2e6 #dee2e6 #fff;
+  z-index:99999;
 }
 .nav-tabs .dropdown-menu {
   margin-top: -1px;
   border-top-left-radius: 0;
   border-top-right-radius: 0;
+  z-index:99999;
 }
 
 .nav-pills .nav-link {
@@ -11254,6 +11257,11 @@ textarea.form-control-lg {
     text-align: center !important;
   }
 }
+
+
+
+
+
 @media (min-width: 1200px) {
   .fs-1 {
     font-size: 2.5rem !important;
@@ -11330,11 +11338,6 @@ textarea.form-control-lg {
 .image-hover:hover {
   transform: scale(1.05); 
 }
-
-#logo{
-font-weight:bold;
-}
-
 @media media screen and (min-width:1366px){
 
 	#logo{
@@ -11342,10 +11345,6 @@ font-weight:bold;
     -moz-transform: scale(1.0);
 		
 	}
-	#navbar-control{
-		margin-left: 10px;
-	}
-	
 }
 
 @media screen and (min-width: 1400px) {
@@ -11353,9 +11352,6 @@ font-weight:bold;
 	#logo{
 			zoom: 0.7;
     -moz-transform: scale(0.9);
-	}
-	#navbar-control{
-		margin-left: 10px;
 	}
 	
 }
@@ -11366,9 +11362,6 @@ font-weight:bold;
 			zoom: 0.7;
     -moz-transform: scale(0.9);
 	}
-	#navbar-control{
-		margin-left: 10px;
-	}
 	
 }
 
@@ -11376,7 +11369,7 @@ font-weight:bold;
 @media screen and (min-width: 1920px) {
 	
 	#logo{
-			zoom: 0.7;
+			zoom: 0.4;
     -moz-transform: scale(0.9);
 	}
 	#navbar-control{
@@ -11391,9 +11384,6 @@ font-weight:bold;
 			zoom: 0.7;
     -moz-transform: scale(0.9);
 	}
-	#navbar-control{
-		margin-left: 10px;
-	}
 	
 }
 @media screen and (min-height: 1050px) {
@@ -11402,19 +11392,10 @@ font-weight:bold;
 			zoom: 0.7;
     -moz-transform: scale(0.9);
 	}
-	#navbar-control{
-		margin-left: 10px;
-	}
 	
 }
-@media screen and (min-height: 1080px) {
-	
-	#logo{
-			zoom: 0.7;
-    -moz-transform: scale(0.9);
-	}
-	#navbar-control{
-		margin-left: 10px;
-	}
-	
+
+.hover-light:hover {
+  background-color: grey;
 }
+	
