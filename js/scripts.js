@@ -2,34 +2,20 @@
 
 
 
-  function homescroll(){
+  function scroll1(){
    window.scrollTo(0,0);
      behavior: 'smooth';
  }
-  function prodscroll(){
-   window.scrollTo(0,500);
+  function scroll2(){
+   window.scrollTo(0,1300);
      behavior: 'smooth';
  }
-  function contscroll(){
-   window.scrollTo(0,1300);
+  function scroll3(){
+   window.scrollTo(0,2300);
     behavior: 'smooth';
  }
  
  
- function GeneralClick(){
-   document.getElementById("r1B").click();
- }
- function MenClick(){
-   document.getElementById("r2B").click();
- }
-  function WomenClick(){
-  document.getElementById("r3B").click();
-  
- }
-
-function prod1Click(){
-  document.getElementById("").click();
- }
 
 
 
@@ -39,7 +25,7 @@ function prod1Click(){
 var modal1 = document.getElementById("myModal1");
 var btn = document.getElementById("prod1Click");
 var span = document.getElementsByClassName("close1")[0]
-var span1 = document.getElementsByClassName("close1A")[0];
+
 
 btn.onclick = function() {
   modal1.style.display = "block";
@@ -47,14 +33,16 @@ btn.onclick = function() {
 span.onclick = function() {
   modal1.style.display = "none";
 }
-span1.onclick = function() {
-  modal1.style.display = "none";
-}
 window.onclick = function(event) {
   if (event.target == modal1) {
     modal1.style.display = "none";
   }
 }
+
+
+
+
+
 
 var modal2 = document.getElementById("myModal2");
 var btn = document.getElementById("prod2Click");
