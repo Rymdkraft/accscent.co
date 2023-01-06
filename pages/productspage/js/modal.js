@@ -878,3 +878,20 @@ window.onclick = function(event) {
     modal55.style.display = "none";
   }
 }
+
+
+
+  function scroll1(){
+   window.scrollTo(0,0);
+     behavior: 'smooth';
+ }
+  function scroll2(){
+   window.scrollTo(0,1300);
+     behavior: 'smooth';
+ }
+  function scroll3(){
+   window.scrollTo(0,2300);
+    behavior: 'smooth';
+ }
+ 
+ 
